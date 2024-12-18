@@ -44,12 +44,6 @@ A simple and interactive Tic-Tac-Toe game built using HTML, CSS, and JavaScript.
 
 ---
 
-## Screenshots
-
-Include some screenshots here to showcase your game.
-(<Screenshot from 2024-12-18 14-55-14.png>)
-(<Screenshot from 2024-12-18 14-55-36.png>)
----
 
 ## Future Improvements
 
